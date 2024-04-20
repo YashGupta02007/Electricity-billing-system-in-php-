@@ -1,22 +1,24 @@
  There will be two users of online electricity billing system:
 
-Admin (Client user)
-Customer (End user)
+  1. Admin (Client user)
+  2. Customer (End user)
+
  Admin modules:
 
-Sign in
-Dashboard  Add dues  Remove defaulting users  Total pending bills  Total bills amount  Total generated bills  Total unprocessed complaints
-Customers  View customer details
-Billings  Generate new bill  View bills history
-Complaints
-Log out
+  1. Sign in
+  2. Dashboard  Add dues  Remove defaulting users  Total pending bills  Total bills amount  Total generated bills  Total unprocessed complaints
+  3. Customers  View customer details
+  4. Billings  Generate new bill  View bills history
+  5. Complaints
+  6. Log out
+
  Customer modules:
 
-Sign up
-Sign in
-Dashboard  Total paid bills  Total pending bills  Total unprocessed complaints
-Billings  Bill due  Bill history
-Transactions
-Complaints
-View profile
-Log out
+  1. Sign up
+  2. Sign in
+  3. Dashboard  Total paid bills  Total pending bills  Total unprocessed complaints
+     Billings  Bill due  Bill history
+  4. Transactions
+  5. Complaints
+  6. View profile
+7. Log out
